@@ -9,10 +9,15 @@ Site official de Portugal em https://www.meshcore.pt, original em https://meshco
 
 <table>
   <tr>
-    <th></th>
-    <th>Banda 433 MHz</th>
-    <th>Banda 868 MHz</th>
+    <th colspan=3>Parâmetros LoRa</th>
   </tr>
+  
+  <tr>
+    <th></th>
+    <th>Banda 433</th>
+    <th>Banda 868</th>
+  </tr>
+  
   <tr>
     <th>Frequência</th>
     <td>433.375 MHz</td>
@@ -25,30 +30,39 @@ Site official de Portugal em https://www.meshcore.pt, original em https://meshco
     <td>250 kHz</td>
   </tr>
 
-  
   <tr>
     <th>Spreading Factor (SF)</th>
     <td>9</td>
     <td>10</td>
   </tr>
-
   
   <tr>
     <th>Coding Rate (CR)</th>
     <td>6</td>
     <td>5</td>
   </tr>
+  
+  <tr>
+    <th>Transmit Power</th>
+    <td>10 dBm</td>
+    <td>22 dBm</td>
+  </tr>
+  
+  <tr>
+    <th colspan=3>Característica da Ligação</th>
+  </tr>
+  
+  <tr>
+    <th>Data Rate</th>
+    <td>732 bps</td>
+    <td>1.9 kbps</td>
+  </tr>
+  
+  <tr>
+    <th>Link Budget</th>
+    <td>142.5 dB</td>
+    <td>151.0 dB</td>
+  </tr>
 </table>
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Mais informações em https://unsigned.io/understanding-lora-parameters/.
