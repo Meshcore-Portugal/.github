@@ -47,6 +47,12 @@ Site official de Portugal em https://www.meshcore.pt, original em https://meshco
     <td>10 dBm</td>
     <td>22 dBm</td>
   </tr>
+
+  <tr>
+    <th>Dutty Cycle</th>
+    <td>10%</td>
+    <td>10%</td>
+  </tr>
   
   <tr>
     <th colspan=3>Característica da Ligação</th>
