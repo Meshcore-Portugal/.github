@@ -5,6 +5,8 @@ O MeshCore é um sistema multiplataforma que permite comunicações de texto, ut
 
 Site official de Portugal em https://www.meshcore.pt, original em https://meshcore.co.uk.
 
+Canal no Telegram em https://t.me/MeshCorePT.
+
 ## Configuração para Portugal
 
 <table>
